@@ -37,3 +37,4 @@ if (len(sys.argv) > 1):
 			information = funcs.getServerInfo(servername.replace(".json", ""))
 
 			
+
